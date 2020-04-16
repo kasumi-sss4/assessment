@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button{
+    padding: 5px 20px;
+    background-color: rgb(165, 127, 255);
+    border-style: none;
+    color: aquamarine;
+}
+input{
+    height: 20px;
+}
